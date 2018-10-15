@@ -1,0 +1,33 @@
+h3{
+	color:red;
+	font-size: 16pt;
+	font-variant: small-caps;
+	font-family: Comic Sans MS;
+	line-height: 50px;
+	letter-spacing: 12px;
+	text-align: center;
+}
+
+body{
+	 padding:2cm 4cm 3cm 4cm;
+}
+
+table{
+	border-collapse: separate;
+	border-style: solid;
+	border-color: #ff0000;
+	empty-cells: head;
+	font-size: 14pt;
+	font-family: "Times New Roman", Georgia, Serif;
+	text-align: left;
+	table-layout: fixed;
+	caption-side:top;
+}
+
+
+p{
+	font-size: 14pt;
+	font-family: "Arial", Georgia, Serif;
+	text-align: justify;
+	text-indent: 2em;
+}
