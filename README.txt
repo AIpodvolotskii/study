@@ -1,0 +1,1 @@
+My name is Andrey. I study at the Northern (Arctic) Federal University named after M. V. Lomonosov. I'm a second-year student of Graduate School of Information Tehnology and Automated System. 
